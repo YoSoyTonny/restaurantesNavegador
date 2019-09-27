@@ -16,6 +16,7 @@
 		3D0C8137233C0EEF0012E8DB /* RestaurantesUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0C8136233C0EEF0012E8DB /* RestaurantesUITests.swift */; };
 		3D0C8145233C14EF0012E8DB /* Restaurantes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0C8144233C14EF0012E8DB /* Restaurantes.swift */; };
 		3D0C8147233C16480012E8DB /* informacionController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3D0C8146233C16480012E8DB /* informacionController.swift */; };
+		3DBA9B72233EAB8D007C91EC /* detalleRestauranteController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3DBA9B71233EAB8D007C91EC /* detalleRestauranteController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -51,6 +52,7 @@
 		3D0C8138233C0EEF0012E8DB /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		3D0C8144233C14EF0012E8DB /* Restaurantes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Restaurantes.swift; sourceTree = "<group>"; };
 		3D0C8146233C16480012E8DB /* informacionController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = informacionController.swift; sourceTree = "<group>"; };
+		3DBA9B71233EAB8D007C91EC /* detalleRestauranteController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = detalleRestauranteController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -109,6 +111,7 @@
 				3D0C8122233C0EEF0012E8DB /* Info.plist */,
 				3D0C8144233C14EF0012E8DB /* Restaurantes.swift */,
 				3D0C8146233C16480012E8DB /* informacionController.swift */,
+				3DBA9B71233EAB8D007C91EC /* detalleRestauranteController.swift */,
 			);
 			path = Restaurantes;
 			sourceTree = "<group>";
@@ -265,6 +268,7 @@
 				3D0C8119233C0EED0012E8DB /* ViewController.swift in Sources */,
 				3D0C8117233C0EED0012E8DB /* AppDelegate.swift in Sources */,
 				3D0C8145233C14EF0012E8DB /* Restaurantes.swift in Sources */,
+				3DBA9B72233EAB8D007C91EC /* detalleRestauranteController.swift in Sources */,
 				3D0C8147233C16480012E8DB /* informacionController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
